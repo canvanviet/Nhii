@@ -6,4 +6,4 @@ context.font = "24px Arial";
 context.fillStyle = "white"; // Adjust font color as needed
 context.textAlign = "center";
 context.textBaseline = "middle";
-context.fillText("Nguyễn Kim Chii", canvas.width / 2, canvas.height / 2);
+context.fillText("Nguyễn Thị Yến Nhii", canvas.width / 2, canvas.height / 2);
